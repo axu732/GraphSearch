@@ -1,5 +1,5 @@
-[![Review Assignment Due Date](https://classroom.github.com/assets/deadline-readme-button-24ddc0f5d75046c5622901739e7c5dd533143b0c8e959d652212380cedb1ea36.svg)](https://classroom.github.com/a/EoVwWP_A)
-# Assignment 3
+# Graph Search
 
-You will find instructions for this assignment on the course website.
+A graph search program that is built via Java. To run, do .\mvnw clean compile exec:java@run. To choose a file, look at the files within test cases and do "OPEN_FILE a.txt" for example.
+You can use http://www.webgraphviz.com/ to visualise what graphs are being tested.
 
